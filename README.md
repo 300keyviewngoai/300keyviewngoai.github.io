@@ -2,6 +2,8 @@
 
 - [Mục lục](#mục-lục)
   - [Những người đã đổi đời nhờ 300 Key làm view ngoại 👇](#những-người-đã-đổi-đời-nhờ-300-key-làm-view-ngoại-)
+    - [Vũ Mẽ - 10 năm làm thợ xây](#vũ-mẽ---10-năm-làm-thợ-xây)
+    - [Thầy Thắng - Công Chức](#thầy-thắng---công-chức)
   - [300 Key làm view ngoại](#300-key-làm-view-ngoại)
 
 Cơ hội đổi đời cho mọi người theo ngành Sáng tạo nội dung (Content creation). Việc nhẹ lương cao, thu nhập trăm triệu.
@@ -10,11 +12,28 @@ Cơ hội đổi đời cho mọi người theo ngành Sáng tạo nội dung (C
 
 ## Những người đã đổi đời nhờ 300 Key làm view ngoại 👇
 
+### [Vũ Mẽ](https://youtu.be/4-tgaXD1QlM?t=118) - 10 năm làm thợ xây
+
 Năm ngoái tui đi fuho sml ngoài công trình.  
 Vô tình tui nhặt dc cuốn sách `300 key view ngoại cho thiếu nhi` về nhà luyện tập theo.  
 Sau 3 tháng, tui xây được kênh view ngoại với thu nhập 3k chưa kể đến lùa gà mua khóa học hay mua tools!
 
 ![300 Key làm view ngoại](https://raw.githubusercontent.com/300keyviewngoai/300keyviewngoai.github.io/refs/heads/main/assets/018782bb4a25f57bac34.jpg "300 Key làm view ngoại")
+
+### Thầy Thắng - Công Chức
+
+- Sống tại `Bắc Giang`
+- Bạn thân Nguyễn Văn Hưng (con trai bà Tân Vlog)
+- Học tại `THPT Chuyên Bắc Giang`
+- Học tại `Trường Đại học Sư phạm Thái Nguyên`
+- Học tại `Đại học Luật Hà Nội`
+- Học thạc sỹ quản lý giáo duc tại `Trường Đại Học Sư Phạm Hà Nội`
+
+Ông chú tôi làm công chức ở Bắc Giang, đợt rồi đói ăn quá nên vất cho cuốn `300 Key làm view ngoại cho thiếu nhi` gì đấy.  
+6 tháng sau ổng vào làm CEO của **BaGi Group**, nghe bảo thu nhập vài tỷ vì ngành này đang hot.
+
+![300 Key làm view ngoại](https://raw.githubusercontent.com/300keyviewngoai/300keyviewngoai.github.io/refs/heads/main/assets/474452611_2881603732047872_1853810086661193244_n.jpg "300 Key làm view ngoại")
+
 
 ## 300 Key làm view ngoại
 
