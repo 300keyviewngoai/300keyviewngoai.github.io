@@ -1,5 +1,12 @@
 # 300keyviewngoai.github.io
+
 300 Key làm view ngoại
+
+![300 Key làm view ngoại](https://raw.githubusercontent.com/300keyviewngoai/300keyviewngoai.github.io/refs/heads/main/assets/Leonardo_Phoenix_10_A_luxurious_leatherbound_book_with_golden_2.jpg "300 Key làm view ngoại")
+
+Năm ngoái tui đi fuho sml ngoài công trình.
+Vô tình tui nhặt dc cuốn sách `300 key view ngoại cho thiếu nhi` về nhà luyện tập theo.
+Sau 3 tháng, tui xây được kênh view ngoại với thu nhập 3k chưa kể đến lùa gà mua khóa học hay mua tools!
 
 ![300 Key làm view ngoại](https://raw.githubusercontent.com/300keyviewngoai/300keyviewngoai.github.io/refs/heads/main/assets/018782bb4a25f57bac34.jpg "300 Key làm view ngoại")
 
