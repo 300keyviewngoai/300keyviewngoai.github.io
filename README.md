@@ -1,12 +1,13 @@
 # Mục lục
 
 - [Mục lục](#mục-lục)
-  - [Những người đã đổi đời nhờ 300 Key làm view ngoại 👇](#những-người-đã-đổi-đời-nhờ-300-key-làm-view-ngoại-)
-    - [Vũ Mẽ - 10 năm làm thợ xây](#vũ-mẽ---10-năm-làm-thợ-xây)
-    - [Thầy Thắng - Công Chức](#thầy-thắng---công-chức)
-  - [300 Key làm view ngoại](#300-key-làm-view-ngoại)
+- [Những người đã đổi đời nhờ 300 Key làm view ngoại 👇](#những-người-đã-đổi-đời-nhờ-300-key-làm-view-ngoại-)
+  - [Vũ Mẽ - 10 năm làm thợ xây](#vũ-mẽ---10-năm-làm-thợ-xây)
+  - [Thầy Thắng - Công Chức](#thầy-thắng---công-chức)
+- [300 Key làm view ngoại](#300-key-làm-view-ngoại)
+  - [Không Lộ Mặt](#không-lộ-mặt)
     - [1. Nhạc Lofi](#1-nhạc-lofi)
-    - [2. updating...](#2-updating)
+    - [2. doing...](#2-doing)
     - [3. updating...](#3-updating)
     - [4. updating...](#4-updating)
     - [5. updating...](#5-updating)
@@ -104,6 +105,7 @@
     - [97. updating...](#97-updating)
     - [98. updating...](#98-updating)
     - [99. updating...](#99-updating)
+  - [Bán Connent](#bán-connent)
     - [100. updating...](#100-updating)
     - [101. updating...](#101-updating)
     - [102. updating...](#102-updating)
@@ -204,6 +206,7 @@
     - [197. updating...](#197-updating)
     - [198. updating...](#198-updating)
     - [199. updating...](#199-updating)
+  - [Lộ Mặt](#lộ-mặt)
     - [200. updating...](#200-updating)
     - [201. updating...](#201-updating)
     - [202. updating...](#202-updating)
@@ -311,13 +314,15 @@ Cơ hội đổi đời cho mọi người theo ngành Sáng tạo nội dung (C
 - Lộ mặt hay không lộ mặt
 - Giọng đọc AI
 - Làm Youtube View Ngoại
+- Làm Youtube Solo 0đ với AI, duy trì một đến hai kênh
 - Bán connent
 - Kiếm tiền từ Mỹ
 - Thoát nghèo quan trọng hơn thoát ế
+- 0.77% video YT chiếm 80% lượng view
 
-## Những người đã đổi đời nhờ 300 Key làm view ngoại 👇
+# Những người đã đổi đời nhờ 300 Key làm view ngoại 👇
 
-### [Vũ Mẽ](https://youtu.be/4-tgaXD1QlM?t=118) - 10 năm làm thợ xây
+## [Vũ Mẽ](https://youtu.be/4-tgaXD1QlM?t=118) - 10 năm làm thợ xây
 
 Năm ngoái tui đi fuho sml ngoài công trình.  
 Vô tình tui nhặt dc cuốn sách `300 key view ngoại cho thiếu nhi` về nhà luyện tập theo.  
@@ -325,7 +330,7 @@ Sau 3 tháng, tui xây được kênh view ngoại với thu nhập 3k chưa k�
 
 ![300 Key làm view ngoại](https://raw.githubusercontent.com/300keyviewngoai/300keyviewngoai.github.io/refs/heads/main/assets/018782bb4a25f57bac34.jpg "300 Key làm view ngoại")
 
-### Thầy Thắng - Công Chức
+## Thầy Thắng - Công Chức
 
 - Sống tại `Bắc Giang`
 - Bạn thân Nguyễn Văn Hưng (con trai bà Tân Vlog)
@@ -342,7 +347,9 @@ Sau 3 tháng, tui xây được kênh view ngoại với thu nhập 3k chưa k�
 ![300 Key làm view ngoại](https://raw.githubusercontent.com/300keyviewngoai/300keyviewngoai.github.io/refs/heads/main/assets/474452611_2881603732047872_1853810086661193244_n.jpg "300 Key làm view ngoại")
 
 
-## 300 Key làm view ngoại
+# 300 Key làm view ngoại
+
+## Không Lộ Mặt
 
 ### 1. Nhạc Lofi
 
@@ -355,17 +362,22 @@ Hoàn toàn không phải bỏ ra bất cứ 1 đồng vốn nào cho những vi
 - [Chàng trai kiếm hơn 800 triệu/năm từ việc làm nhạc Lofi giúp hàng triệu con người chăm học hơn](https://cafef.vn/chang-trai-kiem-hon-800-trieu-nam-tu-viec-lam-nhac-lofi-giup-hang-trieu-con-nguoi-cham-hoc-hon-188240110083802651.chn)
 - [Lofi Girl: Cô gái vàng của làng chăm học](https://kilala.vn/am-nhac-nhat/lofi-girl-co-gai-vang-cua-lang-cham-hoc.html)
 - [Lý do nhạc Lo-fi thu hút hàng triệu người nghe](https://znews.vn/ly-do-nhac-lo-fi-thu-hut-nguoi-nghe-post1162764.html)
+- [Lofi Girl](https://www.youtube.com/@LofiGirl)
+- [Lofi Timer](https://www.youtube.com/@lofitimer)
 - []()
 
 <span style="color:white">
 Keys: lofi, work, study, sleep, piano, guitar, slow tempo, no drum, no percussion, no bass
 </span>
 
-### 2. updating...
+### 2. doing...
+
+
+
+### 3. updating...
 
 ![300 Key làm view ngoại](https://raw.githubusercontent.com/300keyviewngoai/300keyviewngoai.github.io/refs/heads/main/assets/Leonardo_Phoenix_10_A_luxurious_leatherbound_book_with_golden_2.jpg "300 Key làm view ngoại")
 
-### 3. updating...
 ### 4. updating...
 ### 5. updating...
 ### 6. updating...
@@ -462,6 +474,9 @@ Keys: lofi, work, study, sleep, piano, guitar, slow tempo, no drum, no percussio
 ### 97. updating...
 ### 98. updating...
 ### 99. updating...
+
+## Bán Connent
+
 ### 100. updating...
 ### 101. updating...
 ### 102. updating...
@@ -562,6 +577,9 @@ Keys: lofi, work, study, sleep, piano, guitar, slow tempo, no drum, no percussio
 ### 197. updating...
 ### 198. updating...
 ### 199. updating...
+
+## Lộ Mặt
+
 ### 200. updating...
 ### 201. updating...
 ### 202. updating...
@@ -664,4 +682,4 @@ Keys: lofi, work, study, sleep, piano, guitar, slow tempo, no drum, no percussio
 ### 299. updating...
 ### 300. updating...
 
-- Người Nói Đạo Lý Thường Sống Khá Giả -
+- Người Nói Đạo Lý thường Sống Khá Giả -
