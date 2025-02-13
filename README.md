@@ -207,7 +207,7 @@
     - [198. updating...](#198-updating)
     - [199. updating...](#199-updating)
   - [Lộ Mặt](#lộ-mặt)
-    - [200. updating...](#200-updating)
+    - [200. Build Bamboo House](#200-build-bamboo-house)
     - [201. updating...](#201-updating)
     - [202. updating...](#202-updating)
     - [203. updating...](#203-updating)
@@ -379,6 +379,8 @@ Keys: lofi, work, study, sleep, piano, guitar, slow tempo, no drum, no percussio
 ![300 Key làm view ngoại](https://raw.githubusercontent.com/300keyviewngoai/300keyviewngoai.github.io/refs/heads/main/assets/Leonardo_Phoenix_10_A_luxurious_leatherbound_book_with_golden_2.jpg "300 Key làm view ngoại")
 
 ### 4. updating...
+
+
 ### 5. updating...
 ### 6. updating...
 ### 7. updating...
@@ -580,7 +582,16 @@ Keys: lofi, work, study, sleep, piano, guitar, slow tempo, no drum, no percussio
 
 ## Lộ Mặt
 
-### 200. updating...
+### 200. Build Bamboo House
+
+`Lý Thị Ca` - Cặp vợ chồng 31 tuổi ở bản Khau Cau, xã Phúc Yên, huyện Lâm Bình là chủ kênh YouTube với 108.000 người theo dõi. Nội dung tập phim hôm nay quay cảnh vợ chồng Mụi bắt cua trong khe suối để bán ở chợ phiên, lên rừng hái rau củ và nấu cơm trưa.
+
+- [FULL VIDEO: 150 Days Build Bamboo House And Project Completion | Lý Thị Ca - Ep.71](https://youtu.be/ERSp42JZ9iA)
+- [Dân bản 'phất' lên nhờ làm YouTuber](https://vnexpress.net/dan-ban-phat-len-nho-lam-youtuber-4835241.html)
+- [Gặp Youtuber hot nhất Tuyên Quang LÝ THỊ CA: Thực hư chuyện kiếm tiền tỷ từ nghề Youtube? (En sub)](https://youtu.be/NqLdgOEblSw)
+- [Lý Thị Ca - Câu Chuyện Kiếm Hàng Trăm Triệu Mỗi Tháng Từ Youtube Và Lời Khuyên Cho Người Mới Bắt Đầu](https://youtu.be/BoXeNQWOkos)
+- []()
+
 ### 201. updating...
 ### 202. updating...
 ### 203. updating...

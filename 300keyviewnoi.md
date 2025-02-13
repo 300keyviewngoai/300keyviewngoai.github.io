@@ -1,6 +1,7 @@
 # Mục lục
 
 - [Mục lục](#mục-lục)
+- [Một số loại Evergreen Content hay gặp](#một-số-loại-evergreen-content-hay-gặp)
 - [Những người đã đổi đời nhờ 300 Key làm view nội 👇](#những-người-đã-đổi-đời-nhờ-300-key-làm-view-nội-)
   - [Bà Tuyết Diamond - một người nông dân chính hiệu](#bà-tuyết-diamond---một-người-nông-dân-chính-hiệu)
   - [1977 Vlog - Nhận nút vàng YouTube chỉ sau 4 video](#1977-vlog---nhận-nút-vàng-youtube-chỉ-sau-4-video)
@@ -317,6 +318,22 @@ Cơ hội đổi đời cho mọi người theo ngành Sáng tạo nội dung (C
 - Bán connent
 - Thoát nghèo quan trọng hơn thoát ế
 - 0.77% video YT chiếm 80% lượng view
+
+# Một số loại Evergreen Content hay gặp
+
+Khi sáng tạo nội dung thường xanh bạn có thể tham khảo một số loại sau đây:
+- Hướng dẫn dưới dạng thông tin chi tiết
+- Những câu hỏi thường gặp
+- Danh sách
+- Lời khuyên hàng đầu
+- Đánh giá sản phẩm nào đó
+- Làm thế nào
+- Phỏng vấn
+- Bách khoa toàn thư
+- Kinh nghiệm từ chuyên gia
+
+Mỗi một loại Evergreen Content được đề cập trên đây sẽ phục vụ cho một mục đích khác nhau. Tuy nhiên đây chỉ là các loại để bạn tham khảo lựa chọn còn cốt yếu là do bạn phải tự xác định chủ đề thường xanh của mình.
+
 
 # Những người đã đổi đời nhờ 300 Key làm view nội 👇
 
