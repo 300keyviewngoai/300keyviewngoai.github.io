@@ -318,6 +318,7 @@ Cơ hội đổi đời cho mọi người theo ngành Sáng tạo nội dung (C
 - Bán connent
 - Thoát nghèo quan trọng hơn thoát ế
 - 0.77% video YT chiếm 80% lượng view
+- Nhưng 2025 Youtube thay đổi thuật toán: đề xuất cả kênh nhỏ, siêu nhỏ
 
 # Một số loại Evergreen Content hay gặp
 

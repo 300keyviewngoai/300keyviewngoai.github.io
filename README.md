@@ -319,6 +319,27 @@ Cơ hội đổi đời cho mọi người theo ngành Sáng tạo nội dung (C
 - Kiếm tiền từ Mỹ
 - Thoát nghèo quan trọng hơn thoát ế
 - 0.77% video YT chiếm 80% lượng view
+- Nhưng 2025 Youtube thay đổi thuật toán: đề xuất cả kênh nhỏ, siêu nhỏ
+
+Beginners ask what  
+Intermediates ask how  
+Experts ask who  
+Masters ask why  
+Dreamer ask when  
+- AlexHormozi -
+
+Beginners ask what to do to succeed  
+Intermediates ask how to do to succeed  
+Experts ask who can do it successfully  
+Masters ask why doing it will success  
+Dreamer ask when it will be successful
+
+Người mới bắt đầu hỏi phải làm cái gì để thành công  
+Người trung cấp hỏi làm thế nào để thành công  
+Người chuyên gia hỏi ai có thể làm thành công  
+Người bậc thầy hỏi tại sao làm điều đó sẽ thành công  
+Người mơ mộng hỏi khi nào sẽ thành công
+
 
 # Những người đã đổi đời nhờ 300 Key làm view ngoại 👇
 
@@ -362,8 +383,19 @@ Hoàn toàn không phải bỏ ra bất cứ 1 đồng vốn nào cho những vi
 - [Chàng trai kiếm hơn 800 triệu/năm từ việc làm nhạc Lofi giúp hàng triệu con người chăm học hơn](https://cafef.vn/chang-trai-kiem-hon-800-trieu-nam-tu-viec-lam-nhac-lofi-giup-hang-trieu-con-nguoi-cham-hoc-hon-188240110083802651.chn)
 - [Lofi Girl: Cô gái vàng của làng chăm học](https://kilala.vn/am-nhac-nhat/lofi-girl-co-gai-vang-cua-lang-cham-hoc.html)
 - [Lý do nhạc Lo-fi thu hút hàng triệu người nghe](https://znews.vn/ly-do-nhac-lo-fi-thu-hut-nguoi-nghe-post1162764.html)
+- [Lofi Girl Page](https://www.facebook.com/lofigirl)
 - [Lofi Girl](https://www.youtube.com/@LofiGirl)
 - [Lofi Timer](https://www.youtube.com/@lofitimer)
+- [https://socialblade.com/youtube/c/_lofigirl](https://socialblade.com/youtube/c/_lofigirl)
+
+- [Soothing Ghibli Piano](https://www.youtube.com/@SoothingGhibliPiano)
+- [Lofi Soul](https://www.youtube.com/@LofiSoul705)
+
+- [Bunny Lofi](https://www.youtube.com/@BunnyLofi_Cafe)
+- [Lofi Kitty](https://www.youtube.com/@LofiKittychannel)
+- [Chill Lofi Capybara](https://www.youtube.com/@ChillLofiCapybara)
+- [The Chillibara](https://www.youtube.com/@TheChillibara)
+- [Melodies of the Rising Sun](https://www.youtube.com/@MelodiesOfTheRisingSun)
 - []()
 
 <span style="color:white">
@@ -592,6 +624,13 @@ Keys: lofi, work, study, sleep, piano, guitar, slow tempo, no drum, no percussio
 - [Lý Thị Ca - Câu Chuyện Kiếm Hàng Trăm Triệu Mỗi Tháng Từ Youtube Và Lời Khuyên Cho Người Mới Bắt Đầu](https://youtu.be/BoXeNQWOkos)
 - []()
 
+Lý Thị Sa từng bị tắt kiếm tiền vài tháng vì làm video nhà tắm bằng tre...
+
+Vợ ơi dính gậy mới đau  
+You túp nó tắt, về sau hết tiền  
+Cởi áo nó thấy hốt liền  
+Về sau chỉ dám cầm liềm cầm dao.
+
 ### 201. updating...
 ### 202. updating...
 ### 203. updating...
@@ -692,5 +731,18 @@ Keys: lofi, work, study, sleep, piano, guitar, slow tempo, no drum, no percussio
 ### 298. updating...
 ### 299. updating...
 ### 300. updating...
+
+
+Hỏi anh đang ăn gì ngon thế  
+Có bớt được chăng, một chút đê  
+Món này khiến lòng say đắm đuối  
+Hương thơm lan tỏa khắp mọi bề  
+Món ngon nóng hổi thơm ngọt lịm  
+Đặc sản quê hương đậm vị quê  
+Xin cho tớ một múc nhỏ nhé  
+Bạn bè chung vui đừng có chê!  
+
+Cuộc chơi đi hơi xa hơn những thứ mà ta từng mơ về  
+Bật cho ta cái máy tính để ta tiếp tục làm view ngoại nà
 
 - Người Nói Đạo Lý thường Sống Khá Giả -
