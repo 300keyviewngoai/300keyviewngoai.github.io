@@ -81,14 +81,44 @@ https://support.google.com/youtube/answer/2490020
 
 Cấu Hình Máy Tính Dựng Phim, Render Edit Video HD và 2K và 4K+
 
-| Độ phân giải của sequence | 1080p | 2K | 4K | 6K | 8K+ |
-|---|---|---|---|---|---|
-| Dung lượng VRAM | 3 GB | 4 GB | 6GB | 8GB | 10GB+ |
-| CPU | Intel Core i5, i7, i9 Hoặc Ryzen 7, Ryzen 9 |||||
-| Bo mạch chủ | Có khả năng nâng cấp RAM, card đồ họa tốt nhất |||||
-| Bộ nhớ RAM | 16GB trở lên Bus Càng cao càng tốt |||||
-| Ổ Cứng HDD, SSD | HDD từ 1TB trở lên, SSD từ 256GB trở lên |||||
-| Màn hình máy tính | Độ phân giải Full HD trở lên |||||
+<table>
+	<tr>
+		<th>Độ phân giải của sequence</th>
+		<th>1080p</th>
+		<th>2K</th>
+		<th>4K</th>
+		<th>6K</th>
+		<th>8K+</th>
+	</tr>
+	<tr>
+		<td>Dung lượng VRAM</td>
+		<td>3 GB</td>
+		<td>4 GB</td>
+		<td>6 GB</td>
+		<td>8 GB</td>
+		<td>10GB+</td>
+	</tr>
+	<tr>
+		<td>CPU</td>
+		<td colspan="5">Intel Core i5, i7, i9 Hoặc Ryzen 7, Ryzen 9</td>
+	</tr>
+	<tr>
+		<td>Bo mạch chủ</td>
+		<td colspan="5">Có khả năng nâng cấp RAM, card đồ họa tốt nhất</td>
+	</tr>
+	<tr>
+		<td>Bộ nhớ RAM</td>
+		<td colspan="5">16GB trở lên Bus Càng cao càng tốt</td>
+	</tr>
+	<tr>
+		<td>Ổ Cứng HDD, SSD</td>
+		<td colspan="5">HDD từ 1TB trở lên, SSD từ 256GB trở lên</td>
+	</tr>
+	<tr>
+		<td>Màn hình máy tính</td>
+		<td colspan="5">Độ phân giải Full HD trở lên</td>
+	</tr>
+</table>​​
 
 Render Video 1080p:
 
