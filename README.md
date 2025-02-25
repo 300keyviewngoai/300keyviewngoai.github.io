@@ -343,6 +343,9 @@ Người mơ mộng hỏi khi nào sẽ thành công
 
 # Những người đã đổi đời nhờ 300 Key làm view ngoại 👇
 
+> “Stay Hungry. Stay Foolish”  
+Hãy cứ khát khao, Hãy cứ dạy khờ!
+
 ## [Vũ Mẽ](https://youtu.be/4-tgaXD1QlM?t=118) - 10 năm làm thợ xây
 
 Năm ngoái tui đi fuho sml ngoài công trình.  

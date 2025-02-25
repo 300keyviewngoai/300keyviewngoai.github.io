@@ -338,6 +338,9 @@ Mỗi một loại Evergreen Content được đề cập trên đây sẽ phụ
 
 # Những người đã đổi đời nhờ 300 Key làm view nội 👇
 
+> “Stay Hungry. Stay Foolish”  
+Hãy cứ khát khao, Hãy cứ dạy khờ!
+
 ## [Bà Tuyết Diamond](https://youtu.be/B9FgV6Ednlc) - một người nông dân chính hiệu
 
 Bà Tuyết tên thật là Đỗ Thị Tuyết, quê Thái Nguyên. Bà Tuyết là một người nông dân chính hiệu, ngày ngày chỉ biết ra ruộng gặt cấy hoặc đi trồng chè.
